@@ -1,6 +1,7 @@
 <template>
   <div>
       <DatePicker v-model="now"></DatePicker>
+      xxxxxx
   </div>
 </template>
 
