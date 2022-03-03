@@ -1,10 +1,10 @@
 <template>
   <div>
       <DatePicker v-model="now"></DatePicker>
-      xxxxxx
+      
   </div>
 </template>
-
+xxxxxx
 <script>
 import DatePicker from './date-picker';
 export default {
